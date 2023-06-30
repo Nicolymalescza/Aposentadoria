@@ -1,0 +1,11 @@
+C:\Users\2022102020053\Documents\Recuperação\ProvaRecuperacao\ProvaRecuperacao\bin\Debug\ProvaRecuperacao.exe.config
+C:\Users\2022102020053\Documents\Recuperação\ProvaRecuperacao\ProvaRecuperacao\bin\Debug\ProvaRecuperacao.exe
+C:\Users\2022102020053\Documents\Recuperação\ProvaRecuperacao\ProvaRecuperacao\bin\Debug\ProvaRecuperacao.pdb
+C:\Users\2022102020053\Documents\Recuperação\ProvaRecuperacao\ProvaRecuperacao\obj\Debug\ProvaRecuperacao.csproj.AssemblyReference.cache
+C:\Users\2022102020053\Documents\Recuperação\ProvaRecuperacao\ProvaRecuperacao\obj\Debug\ProvaRecuperacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020053\Documents\Recuperação\ProvaRecuperacao\ProvaRecuperacao\obj\Debug\ProvaRecuperacao.Form1.resources
+C:\Users\2022102020053\Documents\Recuperação\ProvaRecuperacao\ProvaRecuperacao\obj\Debug\ProvaRecuperacao.Properties.Resources.resources
+C:\Users\2022102020053\Documents\Recuperação\ProvaRecuperacao\ProvaRecuperacao\obj\Debug\ProvaRecuperacao.csproj.GenerateResource.cache
+C:\Users\2022102020053\Documents\Recuperação\ProvaRecuperacao\ProvaRecuperacao\obj\Debug\ProvaRecuperacao.csproj.CoreCompileInputs.cache
+C:\Users\2022102020053\Documents\Recuperação\ProvaRecuperacao\ProvaRecuperacao\obj\Debug\ProvaRecuperacao.exe
+C:\Users\2022102020053\Documents\Recuperação\ProvaRecuperacao\ProvaRecuperacao\obj\Debug\ProvaRecuperacao.pdb

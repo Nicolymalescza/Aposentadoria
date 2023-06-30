@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-   public class Produto(string nome)
+   /*public class Produto(string nome)
    {
      this.nome = nome.Text;
-   }
+   }*/
 

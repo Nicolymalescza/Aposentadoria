@@ -22,12 +22,16 @@ namespace ProvaRecuperacao
             Contribuinte con = new Contribuinte();
             con.nome = tx_nome.Text;
             con.cpf = mask_cpf.Text;
-            con.DataNascimento = Convert.ToDateTime(mask_dtnascimento.Text);
+          //con.DataNascimento = Convert.ToDateTime(mask_dtnascimento.Text);
             con.sexo = cb_sexo.Text;
             con.profissao = cb_profissao.Text;
-            con.InicioProfissao = Convert.ToDateTime(mask_inicioProfissao.Text);
+           //con.InicioProfissao = Convert.ToDateTime(mask_inicioProfissao.Text);
+            con.DataNascimento = Convert.ToInt32(tx_idade.Text);
+            con.InicioProfissao = Convert.ToInt32(tx_tempoCont.Text);
+            double C = 
+            lb_result.Text = $"{con.Calcular().ToString()}";
 
-            
+
 
         }
     }
