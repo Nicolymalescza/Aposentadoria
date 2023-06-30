@@ -153,6 +153,7 @@
             this.bt_cancelar.TabIndex = 12;
             this.bt_cancelar.Text = "Cancelar";
             this.bt_cancelar.UseVisualStyleBackColor = true;
+            this.bt_cancelar.Click += new System.EventHandler(this.bt_cancelar_Click);
             // 
             // bt_verificar
             // 
@@ -184,9 +185,8 @@
             this.lb_result.Font = new System.Drawing.Font("Microsoft YaHei", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lb_result.Location = new System.Drawing.Point(48, 346);
             this.lb_result.Name = "lb_result";
-            this.lb_result.Size = new System.Drawing.Size(50, 20);
+            this.lb_result.Size = new System.Drawing.Size(0, 20);
             this.lb_result.TabIndex = 16;
-            this.lb_result.Text = "Idade";
             // 
             // Form1
             // 

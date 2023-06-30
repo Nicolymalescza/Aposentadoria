@@ -28,11 +28,19 @@ namespace ProvaRecuperacao
            //con.InicioProfissao = Convert.ToDateTime(mask_inicioProfissao.Text);
             con.DataNascimento = Convert.ToInt32(tx_idade.Text);
             con.InicioProfissao = Convert.ToInt32(tx_tempoCont.Text);
-            double C = 
-            lb_result.Text = $"{con.Calcular().ToString()}";
+            //MessageBox.Show(Convert.ToString(con.Calcular()));
+           // lb_result.Text = $"{Convert.ToString(con.Calcular())}";
+        }
 
-
-
+        private void bt_cancelar_Click(object sender, EventArgs e)
+        {
+            tx_nome.Text = string.Empty;
+            tx_idade.Text = string.Empty;
+            mask_cpf.Text = string.Empty;
+            cb_sexo.Text = string.Empty;
+            cb_profissao.Text = string.Empty;
+            tx_tempoCont.Text = string.Empty;
+            lb_result.Text = string.Empty;
         }
     }
 }
